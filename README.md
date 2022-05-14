@@ -1,5 +1,5 @@
 # Nebula-Authentication-App
-**Search the web for valid accounts. Known as a *hacking tool*, use with caution!**
+**Search the web for valid accounts. Known as a *data breaching tool*, use with caution!**
 _________________________________________________________________________________________________________________________________________________________________________
 ✨🔮 ***- What is Nebula? -*** 🔮✨
 
